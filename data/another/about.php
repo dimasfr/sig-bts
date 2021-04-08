@@ -1,0 +1,5 @@
+        <h2><center>Tentang web</center></h2>
+        <br>Pada Web ini berisi tentang hasil penelitian tentang Evaluasi Daya Pancar Radiasi Gelombang Elektromagnetik Base Transceiver Station ke Mobile Station terhadap suatu titik, dimana pada titik tersebut di peroleh sample yang berasal dari wilayah kecamatan Blimbing Kota Malang Jawa Timur.
+        Adapun sample yang di ambil dari penelitian ini menggunakan Tiga Operator Seluler yang terdiri dari Telkomsel, Indosat Ooredo dan XL. Dari ketiga operator Telekomunikasi tersebut, kemudian dilakukan Drive Test.
+        Drive test sendiri bertujuan untuk mengetahui Operator mana yang memiliki Daya Pancar terbaik. Selanjutnya angka yang diperoleh dari Daya Pancar tersebut kemudian di hitung menggunakan rumus "Daya Pancar Radiasi" 
+        yang erat kaitannya dengan jarak. Jadi semakin jauh jarak penerima dengan BTS maka daya radiasi yang diterima semakin kecil, begitu pula sebaliknya.
